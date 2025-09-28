@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# no subir artefactos zip
+*.zip
+pro-cheff-app.zip
